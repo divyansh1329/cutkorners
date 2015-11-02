@@ -952,6 +952,9 @@ section#about .first{
 section#working {
   background: #f6f6f6;}
 
+  section#about {
+    background: #f6f6f6;}
+
 section#working .working-item i.fa {
   border: 2px solid #66cc99;
   color: #66cc99;
